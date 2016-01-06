@@ -1,0 +1,7 @@
+{
+	"name": "ccb/barcode",
+	"description": "Clone of http://barcode-coder.com/ library",
+	"autoload": {
+		"classmap": [ "php-barcode.php" ]
+	}
+}
